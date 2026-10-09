@@ -1,0 +1,5 @@
+# Carpetas que no van
+bin/
+build/
+# Archivos compilados
+*.o
