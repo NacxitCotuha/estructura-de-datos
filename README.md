@@ -1,2 +1,2 @@
-# estructura-de-datos
-Ejercicios de Estructura de datos todos en un solo proyecto 
+# Estructura de Datos
+Ejercicios de la universidad de la materia de Estructura de datos resumidos en un solo proyecto 
