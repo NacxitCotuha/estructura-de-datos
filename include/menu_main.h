@@ -1,4 +1,6 @@
-#include "utils/limpiar.h"
+// #include "utils/limpiar.h"
+#include "arreglos/menu_arreglos.h"
+#include "utils/validar_entradas.h"
 
 #include <stdio.h>
 #include <stdbool.h>
